@@ -74,8 +74,6 @@ docker run -d \\
 ## 📄 docker-compose.yml
 
 ```yaml
-version: '3.8'
-
 services:
   n8n:
     image: javiocu/n8n-armv7-qnap431-3p:latest
