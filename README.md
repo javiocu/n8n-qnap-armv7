@@ -360,3 +360,7 @@ Developed to solve specific issues with QNAP TS-431P3 running Alpine AL314 (ARMv
 💬 **Having issues?** Open an issue with detailed logs and system info.
 
 🔗 **Docker Hub:** [javiocu/n8n-armv7-qnap431-3p](https://hub.docker.com/r/javiocu/n8n-armv7-qnap431-3p)
+
+---
+
+**Made with ❤️ for QNAP users who want privacy-focused automation on their NAS without fucking 32k problems**
